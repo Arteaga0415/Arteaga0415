@@ -25,11 +25,11 @@ In my downtime, I’m an avid jiu-jitsu practitioner and an artist at heart, exp
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
 <a href="https://jestjs.io/" target="_blank"> <img src="https://jestjs.io/img/jest.png" alt="jest" width="40" height="40"/> </a>
-<a href="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png" target="_blank"> <img src="https://cypress.io/icons/icon-48x48.png?v=fd606d70f25196c012a59d0321b76f60" alt="cypress" width="40" height="40"/> </a>
+<a href="https://www.cypress.io/" target="_blank"> <img src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png" alt="cypress" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank"> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" target="_blank"> <img src="https://icongr.am/devicon/arduino-original-wordmark.svg?size=128&color=currentColor" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" alt="matlab" width="40" height="40"/> </a>
 </p>
