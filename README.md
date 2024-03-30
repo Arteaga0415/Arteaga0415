@@ -10,7 +10,6 @@ In my downtime, I’m a jiu-jitsu practitioner and an artist at heart, exploring
 
 - Developing FlexMate, an app aiding gym owners in managing memberships.
 - Contributing as a Full-stack Developer at Splitease, enhancing expense splitting experiences.
-- Refining Reciplease with TypeScript, elevating culinary discovery through technology.
 
 ### Tools I've been wielding
 
