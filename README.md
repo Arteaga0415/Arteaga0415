@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github.com/sebastian-arteaga-ronga/assets/desk-animation.gif" height=350>
 
-As a software engineer, I thrive on the frontiers of technology, balancing in-depth backend solutions with intuitive front-end experiences. My journey has taken me from mechanical engineering to specializing in software development, where I've tackled everything from web scraping with Python and Selenium to full-stack development with TypeScript.
+As a software engineer, I'm passionate about exploring and mastering new technologies, balancing in-depth backend solutions with intuitive front-end experiences. My journey has taken me from mechanical engineering to specializing in software development, where I've tackled everything from web scraping with Python and Selenium to full-stack development with TypeScript Express and much more.
 
-In my downtime, I’m an avid jiu-jitsu practitioner and an artist at heart, exploring the worlds of drawing, painting, and even tattooing with Procreate.
+In my downtime, I’m a jiu-jitsu practitioner and an artist at heart, exploring the worlds of drawing, painting, and designing with Procreate.
 
 ### What I'm working on
 
