@@ -9,9 +9,10 @@ In my downtime, I’m a jiu-jitsu practitioner and an artist at heart, exploring
 ### What I'm working on
 
 - Developing FlexMate, an app aiding gym owners in managing memberships.
+- Developing Nextjs aplication for Mellowsky company.
 - Contributing as a Full-stack Developer at Splitease, enhancing expense splitting experiences.
 
-### Tools I've been wielding
+### Tools I've been using
 
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a>
