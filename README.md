@@ -33,3 +33,6 @@ In my downtime, I’m a jiu-jitsu practitioner and an artist at heart, exploring
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" alt="matlab" width="40" height="40"/> </a>
 </p>
+
+[![Download CV](https://github.com/Arteaga0415/Arteaga0415/blob/1535c82ecb26b80e2196bdfe8c11e0bad3dd75bd/CV%20-%20Sebastian%20Arteaga%20-%20Software%20Developer%20.pdf)
+
