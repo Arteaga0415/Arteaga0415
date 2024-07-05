@@ -12,6 +12,14 @@ In my downtime, I’m a jiu-jitsu practitioner and an artist at heart, exploring
 - Developing Nextjs aplication for Mellowsky company.
 - Contributing as a Full-stack Developer at Splitease, enhancing expense splitting experiences.
 
+### Portfolio
+
+<a href="porfolio-chi-peach.vercel.app/" target="_blank">
+  <button>
+    Portfolio
+  <button/>
+</a>
+    
 ### Tools I've been using
 
 <p align="left"> 
