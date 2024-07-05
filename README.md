@@ -14,9 +14,11 @@ In my downtime, I’m a jiu-jitsu practitioner and an artist at heart, exploring
 
 ### Portfolio
 
-<a href="porfolio-chi-peach.vercel.app/" target="_blank">
-  Portfolio
-</a>
+<p>
+  <a href="porfolio-chi-peach.vercel.app/" target="_blank">
+    Portfolio
+  </a>
+</p>
     
 ### Tools I've been using
 
