@@ -13,7 +13,7 @@ In my downtime, I’m a jiu-jitsu practitioner and an artist at heart, exploring
 - Contributing as a Full-stack Developer at Splitease, enhancing expense splitting experiences.
 
 <button>
-  <a href="https://porfolio-chi-peach.vercel.app/" target="_blank">
+  <a href="https://portfolio-blush-two-52.vercel.app/" target="_blank">
     Portfolio
   </a>
 </button>
