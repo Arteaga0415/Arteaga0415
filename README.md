@@ -8,9 +8,8 @@ In my downtime, I’m a jiu-jitsu practitioner and an artist at heart, exploring
 
 ### What I'm working on
 
+- Working as a Full-stack Developer at Single Family Services.
 - Developing FlexMate, an app aiding gym owners in managing memberships.
-- Developing Nextjs aplication for Mellowsky company.
-- Contributing as a Full-stack Developer at Splitease, enhancing expense splitting experiences.
 
 <button>
   <a href="https://portfolio-blush-two-52.vercel.app/" target="_blank">
